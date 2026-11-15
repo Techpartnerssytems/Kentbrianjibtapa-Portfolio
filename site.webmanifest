@@ -1,0 +1,23 @@
+{
+  "name": "Kent Brian Jintapa — AI Automation Specialist & GHL Expert",
+  "short_name": "Kent Brian Jintapa",
+  "description": "Official Portfolio of Kent Brian Jintapa (kentbrianjintapa.pages.dev) — AI Automation Specialist & GoHighLevel (GHL) Expert.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070c18",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "01. Images/03. Kent Brian Logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "01. Images/03. Kent Brian Logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
